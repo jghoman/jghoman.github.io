@@ -12,7 +12,7 @@ taxonomies = [
  {name = "tags"},
 ]
 
-theme = "dinkleberg"
+theme = "adidoks"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -20,28 +20,3 @@ theme = "dinkleberg"
 highlight_code = true
 
 [extra]
-blog_title="Jakob Homan Occasionally Blogs"
-label_tags = "Tags"
-label_tag = "Tag"
-label_categories = "Categories"
-label_category = "Category"
-label_relative_posts = "Relative Posts"
-label_next = "Next"
-label_previous = "Previous"
-label_page = "Page"
-label_of = "of"
-
-og_image="https://user-images.githubusercontent.com/10289071/40806112-dd79ae78-64f6-11e8-8f24-63f387d5bb8f.jpg" # Image that will appear on social media
-og_alt_image="Gotcha dinkleberg" # Alt for og_image
-og_site_name="Jakob Homan Occasionally Blogs"
-keywords="cinema, rust" # Keywords for SEO
-
-copyright_year="2021" 
-
-
-sidebar = [
-    {name = "Social", urls=[
-        {name="Twitter", url="https://twitter.com/BlueBoxTraveler"},
-
-    ]}
-]
