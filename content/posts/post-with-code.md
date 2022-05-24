@@ -10,7 +10,7 @@ This is a post to try out including source code in the post.
 
 It doesn't show the syntax highlighting in the main page...
 
-# more
+<!--more-->
 
 {{< highlight java  >}}
 public static void main(String [] args) {
